@@ -17,12 +17,12 @@
 */
 
 :root {
-    --cor0:#c5ebd6;
-    --cor1:#83e1ad;
-    --cor2:#3ddc84;
-    --cor3:#2fa866;
-    --cor4:#1a5c37;
-    --cor5:#063d1e;
+    --cor0:#00000050;
+    --cor1:#8fd6d8;
+    --cor2:#3c94d8;
+    --cor3:#347bb1;
+    --cor4:#1a4261;
+    --cor5:#003156;
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', sans-serif;
