@@ -35,7 +35,7 @@
 }
 
 body {
-    background-color: var(--cor0);
+    background-image: url('../imagens/plano-de-fundo.png');
     font-family: var(--fonte-padrao);
 }
 
