@@ -231,3 +231,11 @@ iframe {
     display: block;
     margin: auto;
 }
+
+.star {
+    max-width: 40px;
+}
+
+#aval {
+    text-align: center;
+}
