@@ -137,22 +137,23 @@ main p {
 }
 
 main strong {
-    color: var(--cor4);
-    background-color: var(--cor1);
+    color: var(--cor3);
     font-weight: bold;
     
 }
 
 main a {
-    color: var(--cor2);
+    color: var(--cor3);
     font-weight: bold;
-    /*background-color: var(--cor1);*/
+    background-color: var(--cor1);
     padding: 2px 6px;
+    border-radius: 10px;
+    text-decoration: none;
 }
 
 main a:hover {
     text-decoration: underline;
-    color: var(--cor3);
+    color: var(--cor2);
 }
 
 main img {
@@ -221,4 +222,8 @@ footer a {
 footer a:hover {
     text-decoration: underline;
     color: var(--cor1);
+}
+
+strong#US {
+    color: rgb(255, 81, 81);
 }
