@@ -223,6 +223,7 @@ aside > h3 {
 aside > ul {
     list-style-position: inside;
     columns: 2;
+    padding: 10px;
 }
 
 footer {
